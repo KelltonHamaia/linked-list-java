@@ -1,7 +1,7 @@
 
 
 # Lista simplesmente encadeada em java - sem utilização de Api's genéricas 
-Para clonar este repositório para uma pasta do seu computador, abra o terminal e cole o seguinte trecho abaixo:
+Para clonar este repositório para uma pasta do seu computador, cire uma pasta, abra o terminal e cole o seguinte trecho abaixo:
 
     git clone https://github.com/KelltonHamaia/linked-list-java
 
